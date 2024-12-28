@@ -1,8 +1,10 @@
+By Ryan Wiwcharyk and David Lynch
 
+Web Programming II Final Project- Winter 2024
 
 ![Banner](./images/230558.jpg)
 
-Welcome to **Project Brainrot** – a simple, yet effective and detailed news, statistics, and content tracker for the massively multiplayer online battle royale "Apex Legends". This app is targeted towards the 18 **million** monthly active players, offering:
+Welcome to **Apex Stats Tracker** – a simple, yet effective and detailed news, statistics, and content tracker for the massively multiplayer online battle royale "Apex Legends". This app is targeted towards the 18 **million** monthly active players, offering:
 
 -   A detailed platform profile lookup and statistics dashboard.
 -   Current map rotations, store offerings, and news updates.
@@ -157,3 +159,7 @@ The serach view allows the user to find a player's statistics by searching for t
 ![Stats View](images/Stats.png)
 
 This view shows the user more details for their found player. It will give them all relevent statistics they would need. Such as the accounts total kills, deaths, damage, wins along with their kill to death ratio, player level, rank and if they player is currently online.
+
+## Rights to code
+
+Baseline for this project was provided by Vikram Singh _vikram.singh@johnabbott.qc.ca_ ©2024
